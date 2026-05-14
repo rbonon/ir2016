@@ -1,0 +1,518 @@
+May 06, 2026 8:02:09 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@786472b7'.
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 06, 2026 8:02:09 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 06, 2026 8:21:38 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@2f18d7d2'.
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 06, 2026 8:21:38 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 06, 2026 8:21:53 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@4cdb7fab'.
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 06, 2026 8:21:53 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 07, 2026 7:23:37 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1bdea975'.
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 07, 2026 7:23:37 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 07, 2026 9:32:55 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@26cae97'.
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 07, 2026 9:32:55 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 07, 2026 2:52:09 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@35b4e04d'.
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 07, 2026 2:52:09 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 12, 2026 3:12:47 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download da versão: 1.2 (Opcional). Versão Atual: 1.1.
+May 12, 2026 3:12:47 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@2a8312ef'.
+May 12, 2026 3:12:47 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 12, 2026 3:12:52 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 12, 2026 3:13:08 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompacta??o dos arquivos do pacote na pasta tempor?ria: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 12, 2026 3:13:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 3:13:08 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualiza??o dos arquivos.
+May 12, 2026 3:13:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 3:13:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 12, 2026 3:22:04 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@5a3008c3'.
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 12, 2026 3:22:04 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 12, 2026 3:29:57 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@3df07ea'.
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 12, 2026 3:29:57 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 12, 2026 4:27:45 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@38dbc5a6'.
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 12, 2026 4:27:45 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 12, 2026 4:29:21 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@165e9cdf'.
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 12, 2026 4:29:21 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 12, 2026 4:35:27 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@acc91f6'.
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 12, 2026 4:35:27 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 7:47:49 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@6dfedeb'.
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 7:47:49 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 8:33:28 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@2281b312'.
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 8:33:28 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 11:54:54 AM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1e9f6cc3'.
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 11:54:54 AM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 12:00:23 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@79043921'.
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 12:00:23 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 12:49:15 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@75c33ae4'.
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 12:49:15 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 1:02:08 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@19a1a976'.
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 1:02:08 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 1:02:55 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@3b9412cf'.
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 1:02:55 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 1:49:25 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@13eb4a65'.
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 1:49:25 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 2:36:06 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@192937df'.
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 2:36:06 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 2:59:10 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1261ab7'.
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 2:59:10 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 13, 2026 3:01:01 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@38c1c471'.
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 13, 2026 3:01:01 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 14, 2026 3:54:42 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1aa1ba70'.
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 14, 2026 3:54:42 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 14, 2026 5:08:05 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@1149a92c'.
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 14, 2026 5:08:05 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
+May 14, 2026 6:36:37 PM serpro.ppgd.irpf.negocio.util.update.IRPFUpdater download
+INFO: Iniciando download de arquivos internos: [MUNCL].
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater executarDownload
+INFO: Iniciando download dos pacotes de instalação: '[Ljava.lang.String;@5ddd392'.
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Downloading
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:DownloadCompleted
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando decompactação dos arquivos do pacote na pasta temporária: '/Users/rbonon/.irpf/tmp_IRPF2026'.
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater updateFiles
+INFO: Iniciando a atualização dos arquivos.
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:Updtating
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:UpdateCompleted
+May 14, 2026 6:36:37 PM br.gov.serpro.updater.PgdUpdater registerUpdateStatus
+INFO: Registrando estado atual:NotStarted
